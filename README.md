@@ -3,5 +3,7 @@
 |  Commands     |   What it does|
 | ------------- | -------------:|
 | node .        | Make Bot go online |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| !play <insert YouTube video link>      | Plays YouTube Video      |
+| !skip | Skip to next video     |
+|   !stop     | Bot leaves call and stop playing video     |
+  
