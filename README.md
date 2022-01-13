@@ -2,6 +2,6 @@
 
 |  Commands     |   What it does|
 | ------------- | -------------:|
-| col 3 is      | right-aligned |
+| node .        | Make Bot go online |
 | col 2 is      | centered      |
 | zebra stripes | are neat      |
